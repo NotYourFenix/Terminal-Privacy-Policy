@@ -7,7 +7,7 @@ We are not collecting or storing any type of data from any user.
 
 ## User Rights
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/RktcjTFdba). You have the right to request the removal of relevant Data.
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/rbR5pnckmd). You have the right to request the removal of relevant Data.
 
 ## Underage Users
 
