@@ -1,18 +1,31 @@
-# Privacy Policy
+# PRIVACY POLICY 
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-## Data
-We are not collecting or storing any type of data from any user.
+# DATA WE USE 
 
-## User Rights
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/rbR5pnckmd). You have the right to request the removal of relevant Data.
+We only store the information required to provide the service.
 
-## Underage Users
+These data are collected when you use a command through the Discord bot.
 
-The use of the Bot is not permitted for minors under the age of 13, or under the age of legal consent for their country. This is in compliance with the [Discord Terms of Service](https://discord.com/terms). No information will be knowingly stored from an underage user. If it is found out that a user is underage we will take all necessary action to delete the stored data.
+The following pieces of information relating to your Discord account are stored in our database:
 
-## Questions
+Discord ID
+Discord username
+Discord discriminator (#)
+If you do not use the service for more than 7 days, the username and discriminator fields are automatically anonymised.
 
-If you have any questions or are concerned about what data might be being stored from your account contact `@NotYourFenix#5465`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+Please contact us via the support server if you would like to request complete deletion of your account data
+
+
+# Security
+
+We take steps to ensure data provided from Titanium Security is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
+
+
+# How are we using your data
+
+Your data including discord username , discord I'd and discriminator is being stored. You can tell to delete your data . 
+# Request For Deletion of your data
+
+You can contact us via support server or me in my DM ``Lucifer.ly~\#3857`` on discord. From there you can tell us for deletion of your data. 
